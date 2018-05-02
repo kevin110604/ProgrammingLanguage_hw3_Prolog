@@ -1,5 +1,5 @@
 %%% Title: hw3_2.pl
-%%% Author: E94046050
+%%% Author: kevin110604
 %%% Function: Lowest Common Ancestor (LCA)
 %%% How to run: swipl -q -s hw3_2.pl
 

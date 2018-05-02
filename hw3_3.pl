@@ -1,5 +1,5 @@
 %%% Title: hw3_3.pl
-%%% Author: E94046050
+%%% Author: kevin110604
 %%% Function: Reachable: determine if node A and node B are connected
 %%% How to run: swipl -q -s hw3_3.pl
 

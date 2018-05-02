@@ -1,5 +1,5 @@
 %%% Title: hw3_1.pl
-%%% Author: E94046050
+%%% Author: kevin110604
 %%% Function: Goldbach's conjecture
 %%% How to run: swipl -q -s hw3_1.pl
 

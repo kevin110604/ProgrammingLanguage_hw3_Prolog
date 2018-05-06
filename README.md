@@ -1,4 +1,5 @@
 # Prolog
+These are three simple Prolog programs.
 
 ## Requirements
 **SWI-Prolog**
@@ -8,7 +9,7 @@
 $ swipl -q -s xxx.pl
 ```
 
-## Input/Output
+## Usage
 1. Goldbach's conjecture
     * Input: One even integer greater than 2.
     * Output: Two prime integers and their sum is the input integer.
